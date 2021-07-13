@@ -1,0 +1,16 @@
+C:\Users\Luna\RiderProjects\Övning6\Övning6\bin\Debug\net5.0\Övning6.exe
+C:\Users\Luna\RiderProjects\Övning6\Övning6\bin\Debug\net5.0\Övning6.deps.json
+C:\Users\Luna\RiderProjects\Övning6\Övning6\bin\Debug\net5.0\Övning6.runtimeconfig.json
+C:\Users\Luna\RiderProjects\Övning6\Övning6\bin\Debug\net5.0\Övning6.runtimeconfig.dev.json
+C:\Users\Luna\RiderProjects\Övning6\Övning6\bin\Debug\net5.0\Övning6.dll
+C:\Users\Luna\RiderProjects\Övning6\Övning6\bin\Debug\net5.0\ref\Övning6.dll
+C:\Users\Luna\RiderProjects\Övning6\Övning6\bin\Debug\net5.0\Övning6.pdb
+C:\Users\Luna\RiderProjects\Övning6\Övning6\obj\Debug\net5.0\Övning6.csproj.AssemblyReference.cache
+C:\Users\Luna\RiderProjects\Övning6\Övning6\obj\Debug\net5.0\Övning6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luna\RiderProjects\Övning6\Övning6\obj\Debug\net5.0\Övning6.AssemblyInfoInputs.cache
+C:\Users\Luna\RiderProjects\Övning6\Övning6\obj\Debug\net5.0\Övning6.AssemblyInfo.cs
+C:\Users\Luna\RiderProjects\Övning6\Övning6\obj\Debug\net5.0\Övning6.csproj.CoreCompileInputs.cache
+C:\Users\Luna\RiderProjects\Övning6\Övning6\obj\Debug\net5.0\Övning6.dll
+C:\Users\Luna\RiderProjects\Övning6\Övning6\obj\Debug\net5.0\ref\Övning6.dll
+C:\Users\Luna\RiderProjects\Övning6\Övning6\obj\Debug\net5.0\Övning6.pdb
+C:\Users\Luna\RiderProjects\Övning6\Övning6\obj\Debug\net5.0\Övning6.genruntimeconfig.cache

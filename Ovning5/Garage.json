@@ -1,0 +1,16 @@
+﻿[
+  {
+    "Title": "Toyota",
+    "RegNumber": "abc123",
+    "Color": "Black",
+    "Speed": 150,
+    "AmountWheels": 4
+  },
+  {
+    "Title": "BMW",
+    "RegNumber": "xyc123",
+    "Color": "Yellow",
+    "Speed": 100,
+    "AmountWheels": 4
+  }
+]
