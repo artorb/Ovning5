@@ -58,7 +58,7 @@ namespace Övning6.Menus
                     GarageMenuOption.CHOOSE_EXISTING_GARAGE,
                     new MenuEntity("List existing garages", GarageHandler.PrintAll)
                 },
-                {GarageMenuOption.PICK_GARAGE, new MenuEntity("Choose existing garage", GarageHandler.Choose)},
+                {GarageMenuOption.PICK_GARAGE, new MenuEntity("Choose existing garage", GarageHandler.Choose)}
             };
             return new Menu(garage, (int) MenuType.GARAGE);
         }

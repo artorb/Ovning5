@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.Immutable;
 using System.Linq;
 using System.Reflection;
 using Övning6.Vehicles;
@@ -35,11 +36,17 @@ namespace Övning6.Garage
                 Console.WriteLine("Cannot have empty string");
                 return;
             }
-
-            var found = GarageHandler.garages[GarageHandler.ChosenGarage].VehicleArray.FilterVarArg(inputFilters);
-            foreach (var vehicle in found)
+            
+            // var found = GarageHandler.garages[GarageHandler.ChosenGarage].VehicleArray.FilterVarArg(inputFilters);
+            var found = GarageHandler.garages.ToArray();
+            foreach (var garage in found)
             {
-                Console.WriteLine(vehicle);
+                var filterVarArg = garage.VehicleArray.FilterVarArg(inputFilters);
+                foreach (var f in filterVarArg)
+                {
+                    Console.WriteLine(f);
+                }
+                // Console.WriteLine(vehicle);
             }
         }
 

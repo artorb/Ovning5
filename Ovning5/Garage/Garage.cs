@@ -25,12 +25,12 @@ namespace Övning6.Garage
 
         public IEnumerator<T> GetEnumerator()
         {
-            throw new System.NotImplementedException();
+            return (IEnumerator<T>) VehicleArray.GetEnumerator();
         }
 
         IEnumerator IEnumerable.GetEnumerator()
         {
-            return GetEnumerator();
+            return Vehicles.GetEnumerator();
         }
     }
 }

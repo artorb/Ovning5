@@ -1,5 +1,7 @@
-﻿using Övning6.Garage;
+﻿using System;
+using Övning6.Garage;
 using Övning6.Menus;
+using Övning6.Vehicles;
 
 namespace Övning6
 {
@@ -29,6 +31,15 @@ namespace Övning6
             //     amountWheels: 4,
             //     regNum: "ZXCF42",
             //     speed: 150);
+            // Vehicle[] vehicles = {veh1, veh2, veh3};
+            // var filters = new[] {"AWER21", "150"};
+            // var filterVarArg = vehicles.FilterVarArg(filters);
+            // foreach (var i in filterVarArg)
+            // {
+            //     Console.WriteLine(i);
+            // }
+
+
             //
             // GarageHandler.ChosenGarage = 0;
             // Garage<Vehicle> ge = new(12);
